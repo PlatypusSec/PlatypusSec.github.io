@@ -1149,7 +1149,7 @@ section {
 }
 
 .about .nav-pills li+li {
-  margin-left: 40px;
+  margin-left: 0px;
 }
 
 .about .nav-link {
